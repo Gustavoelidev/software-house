@@ -34,6 +34,7 @@ export const projects: Project[] = [
     images: [
       { src: '/jiujitsu.png', alt: 'JiuManager — visão geral' },
       { src: '/jiujitsu_CRM.png', alt: 'JiuManager — CRM' },
+      { src: '/jiumanager-checkin.png', alt: 'JiuManager — check-in' },
     ],
   },
 ]
