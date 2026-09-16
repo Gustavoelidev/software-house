@@ -31,7 +31,7 @@ export default function Home() {
         <section id="work" className="px-6 md:px-12 pb-32 max-w-[1400px] mx-auto">
           <div className="flex items-center justify-between border-b border-neutral-200 pb-4 mb-16">
             <h2 className="text-sm font-semibold uppercase tracking-widest text-neutral-400">
-              Projetos Selecionados
+              Portfolio
             </h2>
             <span className="text-sm text-neutral-400">
               ({String(projects.length).padStart(2, '0')})
