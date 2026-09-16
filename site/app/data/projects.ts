@@ -26,4 +26,14 @@ export const projects: Project[] = [
       { src: '/flashgas_CRM.png', alt: 'FlashGas — CRM' },
     ],
   },
+  {
+    title: 'JiuManager',
+    description:
+      'Plataforma SaaS para gestão completa e inteligente de academias de Jiu-Jitsu e centros de artes marciais.',
+    year: '2026',
+    images: [
+      { src: '/jiujitsu.png', alt: 'JiuManager — visão geral' },
+      { src: '/jiujitsu_CRM.png', alt: 'JiuManager — CRM' },
+    ],
+  },
 ]
