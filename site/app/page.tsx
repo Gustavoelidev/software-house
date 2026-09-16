@@ -45,7 +45,7 @@ export default function Home() {
                 className={`group cursor-pointer${index % 2 !== 0 ? ' md:mt-24' : ''}`}
               >
                 <div className="mb-6 rounded-sm overflow-hidden">
-                  <Carousel images={project.images} interval={3500} />
+                  <Carousel images={project.images} interval={3500} aspectRatio={project.aspectRatio} />
                 </div>
                 <div className="flex justify-between items-start">
                   <div>
